@@ -1,0 +1,5 @@
+{
+  "source": "en",
+  "sourceFiles": ["public/locales/**/*.json"],
+  "translations": ["de"]
+}
