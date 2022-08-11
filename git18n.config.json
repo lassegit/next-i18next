@@ -1,5 +1,5 @@
 {
-  "source": "en",
-  "sourceFiles": ["public/locales/**/*.json"],
-  "translations": ["de"]
+  "defaultLocale": "en",
+  "defaultPath": "public/locales/en/*.json",
+  "locales": ["de"]
 }
