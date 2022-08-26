@@ -1,5 +1,5 @@
 {
-  "h1": "A simple example",
+  "h1": "A simple example (just a small update here!)",
   "change-locale": "Change locale to \"{{changeTo}}\"",
   "to-second-page": "To second page",
   "error-with-status": "A {{statusCode}} error occurred on server",
@@ -8,7 +8,7 @@
   "blog": {
     "optimized": {
       "question": "Do you like to unleash some super powers to have all side optimized translations?",
-      "answer": "Then you may have a look at <1>this blog post</1>."
+      "answer": "Then you may have a look at <1>this blog post</1>. Have a good day update."
     },
     "ssg": {
       "question": "Do you want to use SSG (next export)?",
