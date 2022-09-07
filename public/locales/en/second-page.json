@@ -1,5 +1,6 @@
 {
   "h1": "A second page, to demonstrate routing",
   "back-to-home": "Back to home",
-  "title": "Second page | next-i18next"
+  "title": "Second page | next-i18next",
+  "dummy-attribute": "Just some dummy text"
 }
