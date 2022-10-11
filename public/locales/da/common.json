@@ -1,0 +1,18 @@
+{
+  "h1": "Et enkelt eksempel",
+  "change-locale": "Skift sprog til {{changeTo}}",
+  "to-second-page": "Til anden side",
+  "error-with-status": "Der er opstået en fejl ({{statusCode}}) på serveren",
+  "error-without-status": "Der er opstået en fejl på serveren",
+  "title": "main-page | next-i18next",
+  "blog": {
+    "optimeret": {
+      "question": "Ønsker du at frigøre nogle superkræfter for at få optimerede oversættelser for alle sider?",
+      "answer": "Så tjek måske <1>dit blogindlæg</1>."
+    },
+    "ssg": {
+      "question": "Ønsker du at bruge SSG (næste eksport)?",
+      "answer": "Så tag måske et kig på <1>dette blogindlæg</1>."
+    }
+  }
+}
