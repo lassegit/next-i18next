@@ -1,0 +1,14 @@
+{
+  "h1": "Et enkelt eksempel!",
+  "change-locale": "Skift sprog til {{changeTo}}",
+  "to-second-page": "Til anden side",
+  "error-with-status": "Der er opstået en fejl ({{statusCode}}) på serveren",
+  "error-without-status": "Der er opstået en fejl på serveren",
+  "title": "main-page | next-i18next",
+  "blog": {
+    "ssg": {
+      "question": "Ønsker du at bruge SSG (næste eksport)?",
+      "answer": "Så tag måske et kig på <1>dette blogindlæg</1>."
+    }
+  }
+}
