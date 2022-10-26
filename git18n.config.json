@@ -1,5 +1,5 @@
 {
   "defaultLocale": "en",
-  "localePath": "public/locales",
-  "locales": ["en", "de"]
+  "locales": ["en", "de"],
+  "path": "public/locales/**/*.json"
 }
