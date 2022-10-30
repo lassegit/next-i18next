@@ -12,7 +12,7 @@
     },
     "ssg": {
       "question": "Möchtest du SSG (next export) verwenden?",
-      "answer": "Dann schaue dir vielleicht <1>diesen Blogbeitrag an. Update this one 2!!!"
+      "answer": "Dann schaue dir vielleicht <1>diesen Blogbeitrag</1> an. Update this one 2!!!"
     }
   }
 }
