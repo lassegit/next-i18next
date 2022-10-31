@@ -1,5 +1,5 @@
 {
-  "h1": "A simple example (Change on EN)",
+  "h1": "An example that is simple.",
   "change-locale": "Change locale to \"{{changeTo}}\"",
   "to-second-page": "To second page",
   "error-with-status": "A {{statusCode}} error occurred on server",
