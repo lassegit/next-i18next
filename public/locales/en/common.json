@@ -1,5 +1,5 @@
 {
-  "h1": "A simple example",
+  "h1": "An example that is simple.",
   "change-locale": "Change locale to \"{{changeTo}}\"",
   "to-second-page": "To second page",
   "error-with-status": "A {{statusCode}} error occurred on server",
@@ -7,7 +7,7 @@
   "title": "Home | next-i18next",
   "blog": {
     "optimized": {
-      "question": "Do you like to unleash some super powers to have all side optimized translations?",
+      "question": "Do you like to have all your translations optimized by using some superpowers?",
       "answer": "Then you may have a look at <1>this blog post</1>."
     },
     "ssg": {
