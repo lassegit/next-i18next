@@ -1,6 +1,6 @@
 {
   "404": {
-    "title": "Ups, content not found!",
-    "help": "Please ensure the url is correct."
+    "title": "Oops, content not found!",
+    "help": "Please check the url to make sure it is correct."
   }
 }
